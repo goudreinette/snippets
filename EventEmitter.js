@@ -1,5 +1,5 @@
 /**
- * EventEmitter - handles interaction between objects
+ * EventEmitter
  */
 class EventEmitter
 {
