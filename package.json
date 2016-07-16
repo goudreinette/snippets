@@ -1,0 +1,11 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "Don't use this, just trying to learn functional programming.",
+  "main": "tail-recursion.js",
+  "scripts": {
+    "test": "ava -w"
+  },
+  "author": "Rein van der Woerd",
+  "license": "ISC"
+}
